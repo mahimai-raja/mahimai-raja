@@ -1,10 +1,10 @@
 Hi 👋 My name is Mahimai Raja J (iKurious)
 ==========================================
 
-AI & ROBOTICS
+Artificial Intelligence
 -------------
 
-I am undergraduate student with great passion in learning new things everyday and have more craze on making machines to think.
+I am an undergraduate student with great passion in learning new things everyday and have more craze on making machines to think.
 
 *   🌍  I'm based in Tuticorin
 *   ✉️  You can contact me at [mahimairaja@karunya.edu.in](mailto:mahimairaja@karunya.edu.in)
