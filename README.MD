@@ -5,10 +5,10 @@
 
 <h3>Penultimate - CS Karunyan | Ex NUS | Data Science practitioner</h3>
 
-*   🌍  I'm based in Tuticorin
+*   🌍  I'm based in Tuticorin 🇮🇳.
 *   ✉️  You can contact me at [my mail](mailto:mahimairaja@karunya.edu.in)
 *   🧠  I'm currently focusing on AI and IoT.
-*   🤝  I'm open to work - [message me](https://wa.me/message/X3OZDOAAVASUH1)
+*   🤝  I'm open to work - [message me](https://wa.me/+919600809621)
 
 <hr>
 
