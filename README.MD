@@ -70,5 +70,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mahimairajaj)
 
 <hr>
-
+<a href="http://www.github.com/mahimai-raja"><img src="https://github-readme-stats.vercel.app/api?username=mahimai-raja&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="mahimai-raja's GitHub stats" /></a>
+<a href="http://www.github.com/mahimai-raja"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimai-raja&stroke=000000&background=ffffff&ring=64748b&fire=64748b&currStreakNum=000000&currStreakLabel=64748b&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<hr>
 
