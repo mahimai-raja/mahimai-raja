@@ -1,9 +1,7 @@
-# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Mahimai Raja J ( iKurious )
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Mahimai Raja J</h1>
+<h3 align="center">A passionate Data Science Practitioner </h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-## Data Science Practitioner
-
-<h3>Penultimate - CS Karunyan | Ex NUS | Data Science practitioner</h3>
 
 *   🌍  I'm based in Tuticorin 🇮🇳.
 *   ✉️  You can contact me at [my mail](mailto:mahimairaja@karunya.edu.in)
@@ -68,6 +66,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahimai-raja-j/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mahimairaja1)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mahimairajaj)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahimai-raja&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 <hr>
 <a href="http://www.github.com/mahimai-raja"><img src="https://github-readme-stats.vercel.app/api?username=mahimai-raja&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="mahimai-raja's GitHub stats" /></a>
