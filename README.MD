@@ -4,7 +4,7 @@
 
 
 *   🌍  I'm based in Tuticorin 🇮🇳.
-*   ✉️  You can contact me at [my mail](mailto:mahimairaja@karunya.edu.in)
+*   ✉️  You can contact me at [my mail](mailto:info@mahimairaja.in)
 *   🧠  I'm currently focusing on AI and IoT.
 *   🤝  I'm open to work - [message me](https://wa.me/+919600809621)
 
