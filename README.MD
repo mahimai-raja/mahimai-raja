@@ -69,6 +69,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahimai-raja&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 <hr>
-<a href="http://www.github.com/mahimai-raja"><img src="https://github-readme-stats.vercel.app/api?username=mahimai-raja&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="mahimai-raja's GitHub stats" /></a>
-<a href="http://www.github.com/mahimai-raja"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimai-raja&stroke=000000&background=ffffff&ring=64748b&fire=64748b&currStreakNum=000000&currStreakLabel=64748b&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<a href="http://www.github.com/mahimai-raja"><img src="https://github-readme-stats.vercel.app/api?username=mahimai-raja&show_icons=true&hide=&count_private=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true&show_icons=true" alt="mahimai-raja's GitHub stats" /></a>
+<a href="http://www.github.com/mahimai-raja"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimai-raja&stroke=7A7ADB&background=130F40&ring=7A7ADB&fire=64748b&currStreakNum=D3D3D3&currStreakLabel=D3D3D3&sideNums=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3&hide_border=true" /></a>
 
