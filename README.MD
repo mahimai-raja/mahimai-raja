@@ -3,9 +3,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-*   🌍  I'm based in Tuticorin 🇮🇳.
 *   ✉️  You can contact me at [my mail](mailto:info@mahimairaja.in)
-*   🧠  I'm currently focusing on AI and IoT.
+*   🧠  I'm currently focusing on Data Science.
 *   🤝  I'm open to work - [message me](https://wa.me/+919600809621)
 
 <hr>
