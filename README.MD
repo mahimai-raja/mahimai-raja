@@ -5,7 +5,7 @@
 
 
 *   ✉️  You can contact me at [my mail](mailto:info@mahimairaja.in)
-*   🧠  I'm currently focusing on Data Science.
+*   🧠  I'm currently focusing on Federated Learning.
 *   🤝  I'm open to work - [message me](https://wa.me/+919600809621)
 
 <hr>
