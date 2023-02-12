@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Mahimai Raja J</h1>
 <h3 align="center">A passionate Data Science Practitioner </h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+
 
 
 
@@ -11,7 +11,8 @@
 <hr>
 
 ## Languages and Tools 🖥️
-<img align="right" src="https://camo.githubusercontent.com/46b5337d2e4d0bf0e3c2cfd3ae600fe1eab38bd321af1f955da414cc73a84ca5/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f38342f38346437396635383763616565653639636166333036333836656333353237645f773230302e676966">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" src="https://camo.githubusercontent.com/46b5337d2e4d0bf0e3c2cfd3ae600fe1eab38bd321af1f955da414cc73a84ca5/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f38342f38346437396635383763616565653639636166333036333836656333353237645f773230302e676966"> -->
 
 <!-- Data Science -->
 
@@ -75,3 +76,7 @@
 
 <a href="http://www.github.com/mahimai-raja"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimairaja&stroke=7A7ADB&background=130F40&ring=7A7ADB&fire=64748b&currStreakNum=D3D3D3&currStreakLabel=D3D3D3&sideNums=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3&hide_border=true" /></a>
 
+<hr>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mahimairaja&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
