@@ -76,8 +76,8 @@
 
 <a href="http://www.github.com/mahimai-raja"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimairaja&stroke=7A7ADB&background=130F40&ring=7A7ADB&fire=64748b&currStreakNum=D3D3D3&currStreakLabel=D3D3D3&sideNums=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3&hide_border=true" /></a>
 
-<hr>
+<!-- <hr>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mahimairaja&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mahimairaja&theme=onedark&no-frame=true&no-bg=true&margin-w=4) -->
 
