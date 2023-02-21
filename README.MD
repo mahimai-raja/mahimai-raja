@@ -70,7 +70,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mahimairajaj)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahimai-raja&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<!-- <hr>
+<hr>
 
 <a href="http://www.github.com/mahimai-raja"><img src="https://github-readme-stats.vercel.app/api?username=mahimairaja&show_icons=true&hide=&count_private=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true&show_icons=true" alt="mahimai-raja's GitHub stats" /></a>
 
@@ -80,4 +80,4 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mahimairaja&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
- -->
+
