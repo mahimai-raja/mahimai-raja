@@ -72,9 +72,13 @@
 
 <hr>
 
-<a href="http://www.github.com/mahimai-raja"><img src="https://github-readme-stats.vercel.app/api?username=mahimairaja&show_icons=true&hide=&count_private=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true&show_icons=true" alt="mahimai-raja's GitHub stats" /></a>
+<!-- <a href="http://www.github.com/mahimai-raja"><img src="https://github-readme-stats.vercel.app/api?username=mahimairaja&show_icons=true&hide=&count_private=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true&show_icons=true" alt="mahimai-raja's GitHub stats" /></a>
 
-<a href="http://www.github.com/mahimai-raja"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimairaja&stroke=7A7ADB&background=130F40&ring=7A7ADB&fire=64748b&currStreakNum=D3D3D3&currStreakLabel=D3D3D3&sideNums=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3&hide_border=true" /></a>
+<a href="http://www.github.com/mahimai-raja"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimairaja&stroke=7A7ADB&background=130F40&ring=7A7ADB&fire=64748b&currStreakNum=D3D3D3&currStreakLabel=D3D3D3&sideNums=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3&hide_border=true" /></a> -->
+
+[![Mahimai's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahimairaja)](https://github.com/mahimairaja)
+
+[![Mahimai Streak](https://streak-stats.demolab.com/?user=mahimairaja)](https://git.io/streak-stats)
 
 <!-- <hr>
 
