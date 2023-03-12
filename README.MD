@@ -18,7 +18,7 @@
 
 [![GoogleAnalytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)](https://github.com/mahimai-raja)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/mahimai-raja)
-[![DialogFlow](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)](https://github.com/mahimai-raja)
+[![Keras](https://img.shields.io/badge/Keras-ff1900?style=for-the-badge&logo=keras&logoColor=white)](https://github.com/mahimai-raja)
 
 [![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/mahimai-raja)
 [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/mahimai-raja)
