@@ -1,4 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Mahimai Raja J</h1>
+
+<!--
 <h3 align="center">A passionate Data Science Practitioner </h3>
 
 
@@ -6,7 +8,32 @@
 
 *   ✉️  You can contact me at [my mail](mailto:info@mahimairaja.in)
 *   🧠  I'm currently focusing on Federated Learning.
-*   🤝  I'm open to work - [message me](https://wa.me/+919600809621)
+*   🤝  I'm open to work - [message me](https://wa.me/+919600809621)  -->
+
+``` python3
+from dataclasses import dataclass, field
+from typing import List
+
+
+@dataclass
+class DataCraftsman:
+    name: str = "Mahimai Raja J"
+    current_role: str = "ML Consultant"
+    passions: List[str] = field(
+        default_factory=lambda: [
+            "artificial-intelligence",
+            "data-science",
+            "edge-computing",
+        ]
+    )
+
+    def say_hi(self):
+        return "Hi! Thanks for dropping by. :-)"
+
+
+me = DataCraftsman()
+print(me.say_hi())
+```
 
 <hr>
 
